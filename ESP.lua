@@ -1,4 +1,4 @@
-//print("BOB-PF")
+--print("BOB-PF")
 
 enemyteam = game.Workspace.Players:GetChildren()[1]
 friendlyteam = game.Workspace.Players:GetChildren()[2]
